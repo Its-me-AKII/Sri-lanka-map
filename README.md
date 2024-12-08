@@ -5,7 +5,6 @@ I code for Sri Lanka map
 
 int main() {
     
-    printf("           RAILWAY NETWORK\n");
     printf(" \n");
     printf("⠀⠀⡠⠐⠀⠈*⠂⡀⠀⠀\n");
     printf("⠡⠠⠂⣀⡒⠄⢀⠑⠄⡀⠀⠀⠀\n");
