@@ -6,7 +6,7 @@ I code for Sri Lanka map
 int main() {
     
     printf(" \n");
-    printf("⠀⠀⡠⠐⠀⠈*⠂⡀⠀⠀\n");
+    printf("⠀⠀⡠⠐⠀⠈⠂⡀⠀⠀\n");
     printf("⠡⠠⠂⣀⡒⠄⢀⠑⠄⡀⠀⠀⠀\n");
     printf("⠀⠀⠀⠀⠀⢈⠘⠑⠂⠱⠀⠈⠀⢄⠀⠀\n");
     printf("⠀⠀⠀⠀⠐⢁⠀⠀⠀⠀⠀⠀ ⠀⠀⠑⢄⠀⠀\n");
